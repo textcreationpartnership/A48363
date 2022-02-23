@@ -1,0 +1,561 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ansvver to Sir Thomas Manwaring's book, intituled, - An admonition to the reader of Sir Peter Leicester's books. Written by the same Sir Peter Leicester</title>
+            <author>Leycester, Peter, Sir, 1614-1678.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48363</idno>
+            <idno type="STC">Wing L1941A</idno>
+            <idno type="STC">ESTC R217658</idno>
+            <idno type="EEBO-CITATION">99829313</idno>
+            <idno type="PROQUEST">99829313</idno>
+            <idno type="VID">33750</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48363)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33750)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1992:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ansvver to Sir Thomas Manwaring's book, intituled, - An admonition to the reader of Sir Peter Leicester's books. Written by the same Sir Peter Leicester</title>
+                  <author>Leycester, Peter, Sir, 1614-1678.</author>
+               </titleStmt>
+               <extent>[2], 44 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>A reply to: Mainwaring, Sir Thomas.  An admonition to the reader of Sir Peter Leicester's books.</note>
+                  <note>Caption title on p. 1 reads: An answer to Sir Thomas Manwarings books, &amp;c.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mainwaring, Thomas, --  Sir, 1623-1689. --  Admonition to the readers of Sir Peter Leicester's books --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33750:1"/>
+            <p>AN ANSWER TO Sir <hi>Thomas Manwaring</hi>'s BOOK, Intituled,— An Admonition to the READER of Sir <hi>Peter Leiceſter</hi>'s Books.</p>
+            <p>WRITTEN By the ſame Sir <hi>Peter Leiceſter.</hi>
+            </p>
+            <p>Printed in the Year, 1677.</p>
+            <pb facs="tcp:33750:2" rendition="simple:additions"/>
+            <pb facs="tcp:33750:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:33750:3"/>
+            <pb n="1" facs="tcp:33750:3"/>
+            <head>An Anſwer to Sir <hi>Thomas Manwarings</hi> Books, <hi>&amp;c.</hi>
+            </head>
+            <p>IN the firſt place, I deſire the learned and ingenious Reader to take notice of the very firſt words of Sir <hi>Thomas Manwa<g ref="char:EOLhyphen"/>ring</hi>'s Admonition— [That you may know <hi>Hercul<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> by his Foot:] whereby he would inſinuate the blaſting of my Credit and Reputa<g ref="char:EOLhyphen"/>tion, even before he begins one word of his Book; and it is all one, as if he ſhould have ſaid in down<g ref="char:EOLhyphen"/>right words, take heed of believing any thing which Sir <hi>Peter</hi> writes: For here I will ſhew you the Partia<g ref="char:EOLhyphen"/>lity, Omiſſions, Uncertainties, and Miſtakes of the ſaid Sir <hi>Peter,</hi> in thoſe two Sheets of his Hiſtorical Antiquities, in which he writes of
+<pb n="2" facs="tcp:33750:4"/>the Townſhip of <hi>Over-Peever,</hi> which are ſo numerous, that little credit is to be given to any thing he writes elſewhere; for <hi>ex pede Hercules,</hi> and it is no matter what he writes of the Baſtardy of <hi>Ami<g ref="char:EOLhyphen"/>cia,</hi> or any thing elſe: See here the ſcope of his deſign.</p>
+            <p>Had he given me notice of my Miſtakes in private, it would have ſhewed more handſomly in him, and more acceptable to me; but he now publiſheth to the World his own Malignancy, which will be a greater diſhonour to himſelf than theſe pitiful exceptions can be a di<g ref="char:EOLhyphen"/>ſparagement to me, for his Reputa<g ref="char:EOLhyphen"/>tion is out of his reach, <hi>Cum tamen non mordeat, oblatrat.</hi>
+            </p>
+            <p>But let us now take a view of theſe his pitiful exceptions which he would ſo unhandſomly charge upon me as Errours.</p>
+            <div type="Manwarings_contention">
+               <head>
+                  <hi>To the</hi> 1. <hi>Pag.</hi> 4.</head>
+               <p>Here he ſaith that in <hi>Pag.</hi> 330 of my Book, I call <hi>Ranulphus</hi> in <hi>Doomſ<g ref="char:EOLhyphen"/>day-Book</hi>
+                  <pb n="3" facs="tcp:33750:4"/>the ſuppoſed Anceſtor of the <hi>Manwarings:</hi> But <hi>Pag.</hi> 208. I call <hi>Odard</hi> the undoubted Anceſtor of the <hi>Duttons:</hi> Now what reaſon I can have for that, except my Par<g ref="char:EOLhyphen"/>tiality, he cannot imagine.</p>
+               <div type="Leicesters_rebuttal">
+                  <head>My Anſwer.</head>
+                  <p>Yes, Reaſon enough for it, though he cannot or will not imagine it:</p>
+                  <p>For I have ſeen ſundry Deeds of the firſt Age after the <hi>Norman-Con<g ref="char:EOLhyphen"/>queſt,</hi> namely made in the time of King <hi>Henry</hi> the firſt, wherein I find <hi>Hugh</hi> the Son of <hi>Odard</hi> ſo ſtiled, and <hi>Hugh</hi> Son of <hi>Hugh</hi> Son of <hi>Odard:</hi> See <hi>Pag.</hi> 264. of my Book, and <hi>Pag.</hi> 117. <hi>ſub Anno</hi> iii 9. and alſo <hi>Pag.</hi> 250. whereas I ſhould be glad to ſee any one Deed of that Age, men<g ref="char:EOLhyphen"/>tioning or calling <hi>Richard Meſnil<g ref="char:EOLhyphen"/>warin</hi> Son of <hi>Ranulphus.</hi>
+                  </p>
+                  <p>Again, the ancient Roll of the Barons of <hi>Halton</hi> which I have ſeen and tranſcribed in one of my Manu<g ref="char:EOLhyphen"/>ſcripts, noted <hi>Lib. Cap. fol.</hi> 84, 85. (which Roll ſeemed to be written
+<pb n="4" facs="tcp:33750:5"/>in a Character of 300 Years ſtand<g ref="char:EOLhyphen"/>ing at the leaſt,) ſaith thus— <hi>Ab ipſo</hi> Hudardo <hi>venerunt omnes</hi> Dutto<g ref="char:EOLhyphen"/>menſes. See alſo <hi>Monaſticon An<g ref="char:EOLhyphen"/>glicanum,</hi> Vol. 2. pag. 187. and alſo <hi>pag.</hi> 249. of my Book, but I never knew nor heard of any ſuch ancient Roll or Record, wherein it is ſaid— <hi>Ab ipſo</hi> Ranulpho <hi>venerunt omnes</hi> Manwaringi.</p>
+                  <p>Again, I have ſeen the ancient Sword, called at this day <hi>Hudards-Sword,</hi> and is yet in the poſſeſſion of the Heirs of <hi>Dutton</hi> of <hi>Dutton,</hi> and for many Ages hath been paſſed as an Heir-Loom from Heir to Heir for many Generations; and I have ſeen ſome Wills of the <hi>Duttons,</hi> gi<g ref="char:EOLhyphen"/>ving the ſame as an Heir-Loom to the Heir by that name of <hi>Hudards-Sword,</hi> which by tradition received hath been conſtantly preſerved by the Heirs of that Family with great veneration, the like (I believe) cannot be ſhown by any Family of this County, or ſcarcely in <hi>England.</hi> See in my Book, <hi>pag.</hi> 250. I ſay not this to extenuate any Family, but
+<pb n="5" facs="tcp:33750:5"/>to ſhew the Antiquity of this Fa<g ref="char:EOLhyphen"/>mily which hath been ſeated at <hi>Dutton</hi> even from the Conqueror's time to this preſent, and continued in the name of the <hi>Duttons,</hi> until in our days it devolved by a Daughter and Heir unto the Lord <hi>Gerard</hi> of <hi>Gerards-Bromley</hi> in <hi>Stafford-ſhire.</hi>
+                  </p>
+                  <p>And therefore I might well call <hi>Odard</hi> the undoubted Anceſtor of the <hi>Duttons,</hi> and by much ſurer proof than (I believe) can be produced to prove the <hi>Manwarings</hi> to be de<g ref="char:EOLhyphen"/>ſcended from <hi>Ranulphus</hi> aforeſaid.</p>
+                  <p>Neither do I look upon the Lands coming to either of the Families to be ne're ſo ſure a proof as what I have mentioned above; for poſſibly Lands might deſcend by a Daughter and Heir, or by Purchaſe, and yet <hi>Richard Manwaring</hi> might not be Son of <hi>Ranulphus,</hi> as is certainly re<g ref="char:EOLhyphen"/>corded of the <hi>Duttons</hi> from <hi>Odard.</hi>
+                  </p>
+                  <p>Howbeit, I am ſo much ſatisfied with the Lands found in Poſſeſſion of the <hi>Manwarings,</hi> in the very next Ages after <hi>William</hi> the Con<g ref="char:EOLhyphen"/>queror, that I ſuppoſe the ſame
+<pb n="6" facs="tcp:33750:6"/>
+                     <hi>Ranulphus</hi> to be the Anceſtor of the <hi>Manwarings,</hi> but I cannot ſay it is ſo certain as the other:</p>
+                  <p>What reaſon now hath Sir <hi>Thomas</hi> to charge me with Partiality in the Caſe?</p>
+               </div>
+            </div>
+            <div type="Manwarings_contention">
+               <head>
+                  <hi>To the</hi> 2. <hi>Pag.</hi> 6.</head>
+               <p>Here he ſaith, that in the ſame 330 <hi>Pag.</hi> I tell him of two Places or Hamlets in <hi>Over-Peever</hi> ancient<g ref="char:EOLhyphen"/>ly called <hi>Cepmundewich,</hi> the other <hi>Fodon,</hi> whereas there were ſeven ſuch places there, which he reckon<g ref="char:EOLhyphen"/>eth up.</p>
+               <div type="Leicesters_rebuttal">
+                  <head>Anſwer.</head>
+                  <p>But Sir <hi>Thomas</hi> miſtakes himſelf therein, for neither <hi>Radbroke,</hi> nor the other four there mentioned by him, were called Hamlets, as <hi>Cep<g ref="char:EOLhyphen"/>mundewich</hi> and <hi>Fodon</hi> were: See <hi>Pag.</hi> 331. of my Book, for although there might be ſome parcels of Land in <hi>Over-Peever,</hi> ſo called, ei<g ref="char:EOLhyphen"/>ther Fields or Tenements, yet were
+<pb n="7" facs="tcp:33750:6"/>thoſe parcels never called Hamlets in any Deed that I ever ſaw as yet: Now Hamlets are as it were a Ville within a Ville, and are places more conſpicuous, and uſually contain<g ref="char:EOLhyphen"/>ing a greater quantity of Land than a private Place, Field, or Tenement, gaining certain names as thoſe did, and other Places alſo might do; nor was it fit for me to take notice of all ſuch inconſpicuous places in my Book, though I did take notice of the Hamlets; for that were to make my work endleſs, and to ſtuff it with trifles: But I did take no<g ref="char:EOLhyphen"/>tice of <hi>Radbroke,</hi> becauſe it was a Freehold at this day, and now not belonging to <hi>Manwaring,</hi> which made me the rather to mention the ſame; and though it be <hi>locus cogni<g ref="char:EOLhyphen"/>tus</hi> in <hi>Over-Peever</hi> at this day, yet no Hamlet at all.</p>
+               </div>
+            </div>
+            <div type="Manwarings_contention">
+               <head>
+                  <hi>To the.</hi> 3. <hi>Pag.</hi> 7.</head>
+               <p>Here he tell us, that I have left out in the Pedegree of the <hi>Manwa<g ref="char:EOLhyphen"/>rings,</hi> (Pag. 331.) <hi>Ranulphus</hi> men<g ref="char:EOLhyphen"/>tioned
+<pb n="8" facs="tcp:33750:7"/>in <hi>Doomſday-Book, Richard Meſnilwarin, Roger de Meſnilgarin,</hi> or <hi>Mainwaring,</hi> and <hi>William</hi> and <hi>Randle</hi> his Sons, <hi>Roger de Menilga<g ref="char:EOLhyphen"/>rin</hi> or <hi>Mainwaring,</hi> Sir <hi>Ralph Man<g ref="char:EOLhyphen"/>waring,</hi> Sir <hi>Roger Manwaring</hi> his Son.</p>
+               <div type="Leicesters_rebuttal">
+                  <head>Anſwer.</head>
+                  <p>But if he had viewed well <hi>Pag.</hi> 330. of my Book, he might have found the laſt <hi>Roger Manwaring,</hi> and <hi>Ralph Manwaring</hi> his Father ſometime Judg of <hi>Cheſter,</hi> to have been there, but that either of them were Knights, it doth not certain<g ref="char:EOLhyphen"/>ly appear to me, as in my leſſer Book I have formerly given my reaſons; and for the deſcents here mentioned before, <hi>Ralph Manwaring,</hi> I think he himſelf will have much ado to put them into right order as they ought to be; I am ſure I can<g ref="char:EOLhyphen"/>not; and though they were Lords of <hi>Over-Peever,</hi> or the greateſt part thereof, yet certainly none of them lived at <hi>Over-Peever,</hi> till <hi>William
+<pb n="9" facs="tcp:33750:7"/>Manwaring</hi> had <hi>Over-Peever</hi> given him by <hi>Roger Manwaring</hi> of <hi>War<g ref="char:EOLhyphen"/>mincham</hi> his Father in the raign of <hi>Henry</hi> the third, and ſo ſeated him<g ref="char:EOLhyphen"/>ſelf here in <hi>Bucklow-Hundred,</hi> where his Heirs have ever ſince continued to this day.</p>
+                  <p>However, my deſign was only to ſhow who held every paritcular Town in <hi>Bucklow-Hundred</hi> from the time of <hi>William</hi> the Conqueror to this day, or ſo far forth as I could diſcover, together with the Pede<g ref="char:EOLhyphen"/>grees of the better ſort of Families ſeated within that <hi>Hundred,</hi> or ſo many of them as my leaſure would permit me to go through, the other <hi>Hundreds</hi> being out of my intended task; and this he takes notice of himſelf, <hi>Pag.</hi> 8. ſo that having ſhewed how the <hi>Manwarings</hi> of <hi>Peever</hi> firſt branched out from the <hi>Manwarings</hi> of <hi>Warmincham,</hi> it was only ſuitable to my deſign to bring down that deſcent to this day. The like I have done of the <hi>Savages</hi> of <hi>Clifton,</hi> and of the <hi>Brookes</hi> of <hi>Nor<g ref="char:EOLhyphen"/>ton.</hi>
+                  </p>
+                  <pb n="10" facs="tcp:33750:8"/>
+                  <p>Yet I cannot but take notice how he calls the firſt <hi>William Manwaring</hi> of <hi>Over-Peever,</hi> and the firſt of the <hi>Manwarings</hi> who ſeated himſelf there, by the title of Sir <hi>William Manwaring;</hi> whereas it is moſt cer<g ref="char:EOLhyphen"/>tain that he was no Knight, nor can any Deed be produced wherein he was ever ſubſcribed as a Witneſs, with the word <hi>Domino</hi> prefixed, as Domino <hi>Guillielmo Manwaring</hi> de <hi>Peever,</hi> if Sir <hi>Thomas</hi> would but ſurvey his own Deeds with an im<g ref="char:EOLhyphen"/>partial eye:</p>
+                  <p>For if he finds any <hi>William</hi> ſub<g ref="char:EOLhyphen"/>ſcribed Domino <hi>Guillielmo Man<g ref="char:EOLhyphen"/>waring</hi> in that Age, it is to be un<g ref="char:EOLhyphen"/>derſtood of Sir <hi>William Manwaring</hi> Parſon of <hi>Wernith,</hi> who was con<g ref="char:EOLhyphen"/>temporary with the other <hi>William Manwaring</hi> of <hi>Peever,</hi> and ſuch Deed or Deeds I my ſelf have ſeen: See <hi>Pag.</hi> 330. of my Book, and my Anſwer to the defence of <hi>Amicia Pag.</hi> 7, 8. alſo my firſt Reply, <hi>Pag.</hi> 73. and my Addenda, <hi>Pag.</hi> 16, 17.</p>
+                  <p>But the firſt Knight of the Family of the <hi>Manwarings</hi> of <hi>Over-Peever,</hi>
+                     <pb n="11" facs="tcp:33750:8"/>was Sir <hi>John Manwaring</hi> of <hi>Peever,</hi> living in the time of King <hi>Henry</hi> the ſixth, and died about 20. <hi>Edw.</hi> 4.</p>
+                  <p>So that hitherto I have commit<g ref="char:EOLhyphen"/>ted no errour at all in theſe things he chargeth upon me.</p>
+               </div>
+            </div>
+            <div type="Manwarings_contention">
+               <head>
+                  <hi>To the</hi> 4. <hi>Pag.</hi> 8.</head>
+               <p>In this I confeſs I may be miſta<g ref="char:EOLhyphen"/>ken, in ſaying that <hi>Holt</hi> was the ſecond Husband of <hi>Margery Praers,</hi> ſince he finds <hi>John Honford</hi> was her Husband 46, 47. and 50. <hi>Edw.</hi> 3. for then <hi>Honford</hi> muſt needs be her ſecond Husband, and <hi>Holt</hi> the firſt, which by long pawſing on his own Deeds, he might the better diſcover.</p>
+            </div>
+            <div type="Manwarings_contention">
+               <head>
+                  <hi>To the</hi> 5. <hi>Pag.</hi> 8, 9.</head>
+               <p>
+                  <hi>William Leigh</hi> of <hi>Baggiley</hi> was no Knight 33. <hi>Edw.</hi> 3. when he married <hi>Joan Manwaring,</hi> for he was then very young and under age, and therefore no errour in what I there have ſaid: Howbeit he was afterwards a Knight,
+<pb n="12" facs="tcp:33750:9"/>which I did take notice of in his due place.</p>
+            </div>
+            <div type="Manwarings_contention">
+               <head>
+                  <hi>To the</hi> 6. <hi>Pag.</hi> 9.</head>
+               <p>He that tricked out the Seal for me, ſaw as well as my ſelf, that the Seal was three Bars, and not two Bars, to the beſt of our Judg<g ref="char:EOLhyphen"/>ments; but <hi>William Manwaring</hi> the younger, did in his Seal uſe only two Bars 17. <hi>Richard</hi> 2. when the Heirs Males of the <hi>Manwarings</hi> of of <hi>Warmincham</hi> failed, and alſo left out the Lyon in chief, as I have there truly obſerved.</p>
+            </div>
+            <div type="Manwarings_contention">
+               <head>
+                  <hi>To the</hi> 7. <hi>Pag.</hi> 9.</head>
+               <p>I muſt needs omit <hi>John</hi> and <hi>Mar<g ref="char:EOLhyphen"/>gery</hi> Brother and Siſter to the ſaid <hi>Helen,</hi> which I then knew nothing of, and poſſibly other things may be hereafter diſcovered, which ought not to be imputed as an errour to me when I writ my Book, but ſo far as I writ, was true.</p>
+               <pb n="13" facs="tcp:33750:9"/>
+               <p>Beſides, It was not my deſign to collect all the Children of the younger Sons: Now theſe were the Children of a younger Son. It was only my task to collect the Wives and Children of the right Heirs of each Family in <hi>Bucklow-Hundred.</hi>
+               </p>
+            </div>
+            <div type="Manwarings_contention">
+               <head>
+                  <hi>To the</hi> 8. <hi>Pag.</hi> 9.</head>
+               <p>He ſaith here, that he finds <hi>Wil<g ref="char:EOLhyphen"/>liam</hi> (Son of <hi>Roger Manwaring</hi>) living 14. of <hi>Edw.</hi> 3. and how long after, he believes no Man can cer<g ref="char:EOLhyphen"/>tainly tell.</p>
+               <p>Now I ſaid he died about 12, or 13. of <hi>Edw.</hi> 3. which expreſſion of mine ſhews only a gueſs, without an exact certainty; a very poor ex<g ref="char:EOLhyphen"/>ception to be put in Print.</p>
+            </div>
+            <div type="Manwarings_contention">
+               <head>
+                  <hi>To the</hi> 9. <hi>Pag.</hi> 9, 10.</head>
+               <p>Here he ſaith, that I ſaid <hi>William Manwaring</hi> the younger divided the Lands of <hi>Baddiley</hi> between <hi>John Manwaring</hi> his Half-Brother, and
+<pb n="14" facs="tcp:33750:10"/>
+                  <hi>John de Honford;</hi> but (ſaith he) <hi>William</hi> gave the Demain of <hi>Baddi<g ref="char:EOLhyphen"/>ley</hi> ſolely to his Half-Brother, and divided the remainder of the Lands of <hi>Baddiley:</hi>
+               </p>
+               <p>Why then he divided the Lands of <hi>Baddiley.</hi>
+               </p>
+            </div>
+            <div type="Manwarings_contention">
+               <head>
+                  <hi>To the</hi> 10. <hi>Pag.</hi> 10.</head>
+               <p>Here he ſaith, that all the <hi>Man<g ref="char:EOLhyphen"/>warings</hi> that he can find, have either given for their Creſt an <hi>Aſs-Head</hi> on a <hi>Torce,</hi> and haltered, or elſe an <hi>Aſs-Head</hi> eraſed, or elſe an <hi>Aſs-Head</hi> unhaltered, and within a <hi>Coronet.</hi>
+               </p>
+               <div type="Leicesters_rebuttal">
+                  <head>Anſwer.</head>
+                  <p>So that he makes here no certain Creſt at all to his Family: A very worthy exception: But they have given the <hi>Aſs-Head</hi> ſomeway, and it is certain, that <hi>William Manwaring</hi> the younger in his Seal, 17. of <hi>Rich.</hi> 2. did then give the <hi>Aſs-Head</hi> couped, which his Heirs have, or ſhould have continued.</p>
+                  <pb n="15" facs="tcp:33750:10"/>
+               </div>
+            </div>
+            <div type="Manwarings_contention">
+               <head>
+                  <hi>To the</hi> 11. <hi>Pag.</hi> 11.</head>
+               <p>Here he ſaith, that the ſaid <hi>Wil<g ref="char:EOLhyphen"/>liam Manwaring</hi> did not by any Will diſpoſe, but of a part of his Eſtate, namely of the Lands which came by his Mother, nor did he by any Will ſettle the Lands which he had as Heir to his Father.</p>
+               <div type="Leicesters_rebuttal">
+                  <head>Anſwer.</head>
+                  <p>Indeed I neither ſaid he ſetled the Lands of the one nor the other, but only that he ſetled his Eſtate, which if it were either of his Mo<g ref="char:EOLhyphen"/>thers Lands, or Fathers Lands, I have ſaid truth; nor is it any mat<g ref="char:EOLhyphen"/>ter whether of the one or of the other, to my purpoſe.</p>
+               </div>
+            </div>
+            <div type="Manwarings_contention">
+               <head>
+                  <hi>To the</hi> 12. <hi>Pag.</hi> 11.</head>
+               <p>Here he ſaith, that he cannot underſtand how the dying of Sir <hi>John Warren</hi> 10. of <hi>Rich.</hi> 2. doth prove that <hi>John Manwaring</hi> married
+<pb n="16" facs="tcp:33750:11"/>his Widow about 13. of <hi>Richard</hi> the ſecond.</p>
+               <div type="Leicesters_rebuttal">
+                  <head>Anſwer.</head>
+                  <p>But it is probable to be abou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> that time, for it may well be ima<g ref="char:EOLhyphen"/>gined, that it muſt be ſome compe<g ref="char:EOLhyphen"/>tent time after Sir <hi>John Warren's</hi> death, nor can any Man expect punctual proof of every thing in the<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> caſes; and if Sir <hi>Thomas</hi> can<g ref="char:EOLhyphen"/>not mend it, it may ſtand, till bette<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> proof appear.</p>
+               </div>
+            </div>
+            <div type="Manwarings_contention">
+               <head>
+                  <hi>To the</hi> 13. <hi>Pag.</hi> 11.</head>
+               <p>Here he ſaith, that I have obſerved that the ſaid <hi>John Manwaring</hi> wa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Sheriff of <hi>Cheſs-ſhire</hi> 4, 5, and 6, o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Henry</hi> 4. but have omitted 7, o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Henry</hi> 4.</p>
+               <div type="Leicesters_rebuttal">
+                  <head>Anſwer.</head>
+                  <p>Certainly, this is a childiſh ex<g ref="char:EOLhyphen"/>ception, as moſt of the other be <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Is it poſſible that any Man that ever
+<pb n="17" facs="tcp:33750:11"/>did write, or ſhall write hereafter of matters of this kind, ſhould com<g ref="char:EOLhyphen"/>prehend every particular? and this is not worthy the labour of mend<g ref="char:EOLhyphen"/>ing, and is well enough without it.</p>
+               </div>
+            </div>
+            <div type="Manwarings_contention">
+               <head>
+                  <hi>To the</hi> 14. <hi>Pag.</hi> 12.</head>
+               <p>Here he ſaith, that <hi>Pag.</hi> 333. I ſay <hi>John Manwaring</hi> died 11. of <hi>Henry</hi> 4.1410. whereas he was certainly dead in the Year 1409.</p>
+               <p>This is alſo a pitiful exception: why doth he not now produce au<g ref="char:EOLhyphen"/>thority for the exact time of his death?</p>
+            </div>
+            <div type="Manwarings_contention">
+               <head>
+                  <hi>To the</hi> 15. <hi>Pag.</hi> 12.</head>
+               <p>Here he ſaith, that <hi>Pag.</hi> 334. I ſaid <hi>Margery</hi> ſurvived her Husband <hi>Randle Manwaring,</hi> whereas ſhe was certainly dead in the Year 1449, and died ſeveral Years before her Husband.</p>
+               <pb n="18" facs="tcp:33750:12"/>
+               <div type="Leicesters_rebuttal">
+                  <head>Anſwer.</head>
+                  <p>But this miſtake I rectified in Print long ſince, at the end of my ſaid Book, among the Errata, and alſo at the end of my Anſwer to the defence of <hi>Amicia,</hi> ſo ſoon as I knew the certainty of it, and therefore ought not to be charged upon me.</p>
+               </div>
+            </div>
+            <div type="Manwarings_contention">
+               <head>
+                  <hi>To the</hi> 16. <hi>Pag.</hi> 12.</head>
+               <p>Here he ſaith, that I ſaid Sir <hi>John Manwaring</hi> died about the very end of <hi>Edw.</hi> 4. his Raign, but he was dead for certain the 14. of <hi>April.</hi> 20. of <hi>Edw.</hi> 4.</p>
+               <div type="Leicesters_rebuttal">
+                  <head>Anſwer.</head>
+                  <p>Had I but ſaid towards the latter end of <hi>Edw.</hi> 4. I had not much er<g ref="char:EOLhyphen"/>red, and I could not put down the exact time till I knew it: Now <hi>Edw.</hi> 4. raigned but 22 Years in all.</p>
+                  <pb n="19" facs="tcp:33750:12"/>
+               </div>
+            </div>
+            <div type="Manwarings_contention">
+               <head>
+                  <hi>To the</hi> 17. <hi>Pag.</hi> 12, 13.</head>
+               <p>Here he ſaith, that I omitted <hi>Agnes</hi> Daughter of <hi>John Manwa<g ref="char:EOLhyphen"/>ring</hi> of <hi>Peever</hi> Eſquire, and Wife of Sir <hi>Robert Nedham.</hi>
+               </p>
+               <div type="Leicesters_rebuttal">
+                  <head>Anſwer.</head>
+                  <p>Indeed at firſt I made ſome doubt of the truth hereof, becauſe I found in my Lord <hi>Kilmorey</hi>'s Pedegree, under the <hi>Herald</hi>'s Seal, that the ſaid Sir <hi>Robert Nedham</hi> married <hi>Maud</hi> Daughter of Sir <hi>John Savage:</hi> But as ſoon as I found out the truth, I rectified that omiſſion in Print, at the end of my Anſwer to the defence of <hi>Amicia,</hi> Pag. 87, as will appear by the ſaid Book, Printed 1673, and did alſo blot out that Match with <hi>Savage</hi> in my own Book, in the Pedegree of that Family, <hi>pag.</hi> 233. and yet he imputes it now again, as if I had not mended the ſame, which is unjuſtly charged here.</p>
+                  <pb n="20" facs="tcp:33750:13"/>
+               </div>
+            </div>
+            <div type="Manwarings_contention">
+               <head>
+                  <hi>To the</hi> 18. <hi>Pag.</hi> 13.</head>
+               <p>Here he ſaith, that <hi>Katharine Manwaring</hi> married <hi>William Newton</hi> probably 1522, and I had ſaid it was 1521, ſo that there was no cer<g ref="char:EOLhyphen"/>tainty of what I there ſaid.</p>
+               <div type="Leicesters_rebuttal">
+                  <head>Anſwer.</head>
+                  <p>I ſay it is as probable they were married 1521, as 1522, and can abſolute certainties be always found out in matters of this nature in eve<g ref="char:EOLhyphen"/>ry particular? therefore let it ſtand, till he proves it to be an errour.</p>
+               </div>
+            </div>
+            <div type="Manwarings_contention">
+               <head>
+                  <hi>To the</hi> 19. <hi>Pag.</hi> 14.</head>
+               <p>Here he ſaith, that <hi>Pag.</hi> 335, I ſay Sir <hi>John Manwaring</hi> was Sheriff of <hi>Flint-ſhire</hi> 6. of <hi>Henry</hi> 8. but I take no notice that he was Sheriff there 23 and 24 of <hi>Henry</hi> 7, and alſo 1 and 2 of <hi>Henry</hi> 8.</p>
+               <pb n="21" facs="tcp:33750:13"/>
+               <div type="Leicesters_rebuttal">
+                  <head>Anſwer.</head>
+                  <p>What if I did not? It is true what I have ſaid, and well enough without it: for (as I ſaid before) it is not poſſible that I ſhould com<g ref="char:EOLhyphen"/>prehend every particular, nor any Man elſe; and ſhall my Credit of writing Truth be impeached by him for this, becauſe I cannot know every thing? therefore I have com<g ref="char:EOLhyphen"/>mitted no errour herein.</p>
+               </div>
+            </div>
+            <div type="Manwarings_contention">
+               <head>
+                  <hi>To the</hi> 20. <hi>Pag.</hi> 14.</head>
+               <p>In the ſame <hi>Pag.</hi> 335, I ſay Sir <hi>John Manwaring</hi> died 8. of <hi>Henry</hi> 8. 1515. and no part of 8. <hi>Henry</hi> 8. falls in <hi>Anno</hi> 1515.</p>
+               <div type="Leicesters_rebuttal">
+                  <head>Anſwer.</head>
+                  <p>What of all this? It perhaps were better placed to be <hi>Anno</hi> 1516, or 1517. let him find out the abſo<g ref="char:EOLhyphen"/>lute time, and I will mend it.</p>
+                  <pb n="22" facs="tcp:33750:14"/>
+               </div>
+            </div>
+            <div type="Manwarings_contention">
+               <head>
+                  <hi>To the</hi> 21. <hi>Pag.</hi> 14.</head>
+               <p>Here he ſaith, that <hi>Pag.</hi> 335. I ſay Sir <hi>Randle Manwaring</hi> after the death of his firſt Wife, married <hi>Elizabeth</hi> Daughter of Sir <hi>Ralph Leiceſter</hi> of <hi>Toft</hi> 6. of <hi>Edw.</hi> 6. 1551, but (ſaith he) I cannot prove they were married till the Year 1552.</p>
+               <div type="Leicesters_rebuttal">
+                  <head>Anſwer.</head>
+                  <p>Therefore let it ſtand <hi>donec probe<g ref="char:EOLhyphen"/>tur in contrarium,</hi> it may yet be ſo for ought I know.</p>
+               </div>
+            </div>
+            <div type="Manwarings_contention">
+               <head>
+                  <hi>To the</hi> 22. <hi>Pag.</hi> 14.</head>
+               <p>Here he ſaith, that <hi>Pag.</hi> 336. I ſay <hi>Philip Manwaring</hi> Eſquire was the fifth Son of Sir <hi>John Manwaring,</hi> but he was the ſeventh Son born, and not the fifth, as appears by the Monument of the ſaid Sir <hi>John</hi> in <hi>Over-Peever</hi> Church, wherein the Monument of the ſaid <hi>Philip</hi> is alſo.</p>
+               <pb n="23" facs="tcp:33750:14"/>
+               <div type="Leicesters_rebuttal">
+                  <head>Anſwer.</head>
+                  <p>It may be ſo, but they all died young, and <hi>Philip</hi> became Heir: If it be an errour, it is but a ſmall one, and not material.</p>
+               </div>
+            </div>
+            <div type="Manwarings_contention">
+               <head>
+                  <hi>To the</hi> 23. <hi>Pag.</hi> 15.</head>
+               <p>Here he confeſſeth what I ſay to be truth, that the Herald in the raign of Queen <hi>Elizabeth</hi> made for Sir <hi>Randle Manwaring</hi>'s Coat, Barry of twelve pieces, Argent and Gules: See <hi>Guillims</hi> Heraldry, <hi>Pag.</hi> 373. but (ſaith he) the <hi>Manwarings</hi> ſince then have again given two Bars only; and the Coat which the ſaid Sir <hi>Randle</hi> did then uſually bear, was ſix Barrulets; and that I knew the ancient Coat to be ſix Barrulets <hi>Pag.</hi> 330. and not Barry of twelve pieces.</p>
+               <div type="Leicesters_rebuttal">
+                  <head>Anſwer.</head>
+                  <p>It is true, that I ſaid the ancient
+<pb n="24" facs="tcp:33750:15"/>Deed of <hi>Roger Manwaring</hi> made in the raign of King <hi>Henry</hi> the third, was ſealed with an Eſcocheon of ſix Barrulets, <hi>Pag.</hi> 330. but that Coat deviſed for the ſaid Sir <hi>Randle, Guillim</hi> the Herald calls it Barry of twelve pieces: I know not the cri<g ref="char:EOLhyphen"/>ticiſm in theſe terms of Heraldry, the Heralds themſelves are the beſt Judges herein, and whether we call it the one, or the other, it is not a Pin matter; nor have I committed any errour at all, for I there vouched <hi>Guillim</hi> for it.</p>
+               </div>
+            </div>
+            <div type="Manwarings_contention">
+               <head>
+                  <hi>To the</hi> 24. <hi>Pag.</hi> 15.</head>
+               <p>Here he ſaith, that I ſay the ſaid Sir <hi>Randle Manwaring</hi> the elder, built the Hall of <hi>Over-Peever</hi> anew, 1586. but (ſaith he) part of the ſaid Houſe was built 1585, and another part was built 1586.</p>
+               <div type="Leicesters_rebuttal">
+                  <head>Anſwer.</head>
+                  <p>Is not here a worſhipful excep<g ref="char:EOLhyphen"/>tion? It is more proper to aſcribe
+<pb n="25" facs="tcp:33750:15"/>the time when it was built to the finiſhing of it, than when it was begun, for it was not all built till it was finiſhed.</p>
+               </div>
+            </div>
+            <div type="Manwarings_contention">
+               <head>
+                  <hi>To the</hi> 25. <hi>Pag.</hi> 16.</head>
+               <p>Here he ſaith, that <hi>Pag.</hi> 336. I call Sir <hi>Philip Manwaring</hi> Secretary of <hi>Ireland</hi> to the Earl of <hi>Stafford,</hi> 1638. whereas the ſaid Sir <hi>Philip</hi> was his Majeſties Secretary of State there.</p>
+               <div type="Leicesters_rebuttal">
+                  <head>Anſwer.</head>
+                  <p>Here I confeſs my words were not well ordered, for I intended no more there, than that he was Secre<g ref="char:EOLhyphen"/>tary of <hi>Ireland</hi> in the time of the Earl of <hi>Stafford,</hi> then Lord Lieu<g ref="char:EOLhyphen"/>tenant there, 1638. But I have cor<g ref="char:EOLhyphen"/>rected this in my Notes at the ſide of my own Book long before, with<g ref="char:EOLhyphen"/>out any admonition from Sir <hi>Tho<g ref="char:EOLhyphen"/>mas.</hi>
+                  </p>
+                  <pb n="26" facs="tcp:33750:16"/>
+               </div>
+            </div>
+            <div type="Manwarings_contention">
+               <head>
+                  <hi>To the</hi> 26. <hi>Pag.</hi> 16.</head>
+               <p>Here he ſaith, that I ſay the ſaid Sir <hi>Philip Manwaring</hi> died the ſe<g ref="char:EOLhyphen"/>cond of <hi>Auguſt</hi> 1661, at <hi>London,</hi> but (ſaith he) he died at <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter,</hi> in Sir <hi>Philip Warwick</hi>'s Houſe, which is in or near to St. <hi>James</hi>'s Park.</p>
+               <div type="Leicesters_rebuttal">
+                  <head>Anſwer.</head>
+                  <p>Is not here a ridiculous exception for a wiſe Man to make? Do not we always ſay in the Country—ſuch a Man died at <hi>London;</hi> whe<g ref="char:EOLhyphen"/>ther he died at <hi>Weſtminſter,</hi> or in any of the Suburbs, according to our common uſe of ſpeaking, it is no matter for taking notice at whoſe Houſe.</p>
+               </div>
+            </div>
+            <div type="Manwarings_contention">
+               <head>
+                  <hi>To the</hi> 27. <hi>Pag.</hi> 16, 17.</head>
+               <p>Here he ſaith, that I take no no<g ref="char:EOLhyphen"/>tice that Sir <hi>Robert Brierwood</hi> was made Serjeant at Law 1640, nor
+<pb n="27" facs="tcp:33750:16"/>that he was made one of the Judges of the <hi>Kings-Bench</hi> 1643. and fur<g ref="char:EOLhyphen"/>ther ſaith, that <hi>Pag.</hi> 187, I ſay the ſaid Sir <hi>Robert</hi> was made Judg of the <hi>Common-Pleas</hi> 1643. whereas he was never made Judg of the Court of the <hi>Common-Pleas,</hi> but of the <hi>Kings-Bench:</hi> And alſo, that <hi>Pag.</hi> 334. I ſay Sir <hi>John Nedham</hi> was <hi>Juſtitiarius de Banco,</hi> whereby he ſuppoſeth I did there erroneouſly take <hi>Juſtitiarius de Banco</hi> to be a Judg of the <hi>Kings-Bench.</hi>
+               </p>
+               <div type="Leicesters_rebuttal">
+                  <head>Anſwer.</head>
+                  <p>For the firſt, It was not neceſſary nor material, to take notice in that place of Sir <hi>Robert Brierwood</hi>'s being made either <hi>Serjeant at Law,</hi> or Judg of the <hi>Kings-Bench;</hi> for though it would have been fuller to have put them in here, yet it is no errour without it: And I had before (as Sir <hi>Thomas</hi> here confeſ<g ref="char:EOLhyphen"/>ſeth) among the Recorders of <hi>Cheſ<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r,</hi> Pag. 187, there taken notice both of his being <hi>Serjeant at Law,</hi>
+                     <pb n="28" facs="tcp:33750:17"/>and being made Judg of the <hi>Com<g ref="char:EOLhyphen"/>mon-Pleas;</hi> howbeit Sir <hi>Thomas</hi> ſaith, it ſhould have been Judg of the <hi>Kings-Bench;</hi> be it ſo, I had it but by common fame.</p>
+                  <p>Then as to Judg <hi>Nedham,</hi> I cal<g ref="char:EOLhyphen"/>led him <hi>Juſtitiarius de Banco,</hi> Pag. 334. which he ſuppoſeth I do there erroneouſly take for a Judg of the <hi>Kings-Bench,</hi> yet doth he not find me any where ſo expounding it, ſo that he will ſuppoſe I have com<g ref="char:EOLhyphen"/>mitted an errour, before there be one.</p>
+               </div>
+            </div>
+            <div type="Manwarings_contention">
+               <head>
+                  <hi>To the</hi> 28. <hi>Pag.</hi> 18.</head>
+               <p>Here he ſaith, that <hi>Pag.</hi> 336. I ſay <hi>Philip Manwaring</hi> Eſquire mar<g ref="char:EOLhyphen"/>ried <hi>Helen</hi> Daughter of <hi>Edward Minſhul</hi> of <hi>Stoke</hi> 20 <hi>Jacob.</hi> 1622. whereas they were married 1617, 15 <hi>Jacob.</hi>
+               </p>
+               <div type="Leicesters_rebuttal">
+                  <head>Anſwer.</head>
+                  <p>This (I believe) is the moſt material miſtake now charged upon
+<pb n="29" facs="tcp:33750:17"/>me, and I have now rectified the ſame, nor do I well remember now how it came about.</p>
+               </div>
+            </div>
+            <div type="Manwarings_contention">
+               <head>
+                  <hi>To the</hi> 29. <hi>Pag.</hi> 18.</head>
+               <p>Here he ſaith, that <hi>Pag.</hi> 337. I ſay that the Stable and Dove-houſe at <hi>Over-Peever</hi> were built by Mrs. <hi>Helen Manwaring</hi> 1654, where<g ref="char:EOLhyphen"/>as the Stable was built 1653, and fi<g ref="char:EOLhyphen"/>niſhed within the Year 1654, and the ſaid Dove-houſe was not built till the Year 1656.</p>
+               <div type="Leicesters_rebuttal">
+                  <head>Anſwer.</head>
+                  <p>This is another Childiſh excep<g ref="char:EOLhyphen"/>tion to put in Print, neither is the firſt of theſe any errour at all.</p>
+               </div>
+            </div>
+            <div type="Manwarings_contention">
+               <head>
+                  <hi>To the</hi> 30, <hi>but miſprinted</hi> 29. <hi>Pag.</hi> 18.</head>
+               <p>Here he ſaith, that <hi>Pag.</hi> 336. I ſay <hi>Margaret</hi> Wiſe of <hi>Henry Birken<g ref="char:EOLhyphen"/>hed</hi> died at <hi>Cheſter</hi> 25 of <hi>July</hi> 1661, but ſhe died on <hi>Saturday</hi> the 20 of <hi>July</hi> 1661.</p>
+               <pb n="30" facs="tcp:33750:18"/>
+               <p>Poſſibly I might miſwrite the number 25 for 20, or it might be miſtaken by the Printer.</p>
+               <p>Thus have I taken a view of all his trivial exceptions particularly, and I believe ſuch ridiculous things were never before publiſhed in Print by any wiſe Man, and moſt of them rather Cavils than real Er<g ref="char:EOLhyphen"/>rours, all which he ranketh under theſe four general Heads, Partiality, Omiſſions, Uncertainties, and Mi<g ref="char:EOLhyphen"/>ſtakes.</p>
+               <p n="1">1. As to Partiality. I thank God I dare aver with a clear Conſcience that I had not the leaſt intendment of Partiality towards any; in a word, if there be any thing like Partiality in my Book, it is towards his Family, and whatſoever he chargeth me with in this reſpect, it is altogether unjuſt.</p>
+               <p n="2">2. As to Omiſſions. No moderate Man who ſhall ſeriouſly weigh all circumſtances of this nature, can judg it equal to impute ſuch as er<g ref="char:EOLhyphen"/>rours; it is ſufficient, that thoſe things be true which I do mention,
+<pb n="31" facs="tcp:33750:18"/>and ſo far as I did then know; for letany Man but conſider, what mul<g ref="char:EOLhyphen"/>titude of particulars or things may be hereafter diſcovered in future Ages, which yet are in obſcurity and appear not, eſpecially in matters of this nature; nay, how many things could I my ſelf now add to my Book, relating to <hi>England, Scotland</hi> and <hi>Ireland,</hi> and other things in this County, and Hundred (which I have collected ſince) in caſe it might receive a ſecond Edition, which in this firſt were unknown unto me, and other things not well digeſted or conſidered by me, and God knows whether I may live to ſee a ſecond Impreſſion of it, or no; if I ſhould, how many other things might yet be afterwards fur<g ref="char:EOLhyphen"/>ther diſcovered: Collections and Corrections would ſtill be further neceſſary, a thing incident to all Books, eſpecially of this kind; nor is it poſſible for a mortal Man to comprehend every particular, for ſtill there will be a deficiency,
+<pb n="32" facs="tcp:33750:19"/>though he take all the care imagin<g ref="char:EOLhyphen"/>able: But theſe omiſſions charged upon me by Sir <hi>Thomas</hi> in his Ad<g ref="char:EOLhyphen"/>monition, (beſides the unhandſom<g ref="char:EOLhyphen"/>neſs of it,) are ſo inconſiderable, as they be not worthy an amend<g ref="char:EOLhyphen"/>ment moſt of them.</p>
+               <p n="3">3. As to Uncertainties. Some things will ſtill be in the dark for want of exact proof in remote Ages, either for punctual time or circumſtances; neither are proba<g ref="char:EOLhyphen"/>ble conjectures to be totally reje<g ref="char:EOLhyphen"/>cted herein, though the abſolute certainty be not exactly known, and ſuch may ſtand without any impu<g ref="char:EOLhyphen"/>tation of errour, till the contrary do appear by good proof.</p>
+               <p n="4">4. Laſtly, as to Miſtakes. <hi>Hu<g ref="char:EOLhyphen"/>manum eſt Errare,</hi> Wilful miſtakes are unworthy, but miſtakes through ignorance are more pardonable, eſpecially ſmall miſtakes and in<g ref="char:EOLhyphen"/>conſiderable; but theſe now charg<g ref="char:EOLhyphen"/>ed upon me, would have been more handſomly done by a private admo<g ref="char:EOLhyphen"/>nition than a publick, and in Print
+<pb n="33" facs="tcp:33750:19"/>too, and in ſuch a malignant manner alſo.</p>
+               <p>And as to all the Omiſſions, Un<g ref="char:EOLhyphen"/>certainties, and Miſtakes before mentioned, they are ſo immaterial, that if my Book ſhould receive a ſecond Impreſſion, an indifferent Perſon would not think it neceſſary to amend above three or four of them, beſides thoſe already acknow<g ref="char:EOLhyphen"/>ledged and amended in Print by me before his Admonition publiſhed; for though many of them may be obſerved by Sir <hi>Thomas</hi> for his pri<g ref="char:EOLhyphen"/>vate uſe, yet are neither worthy nor fit for a publick view, as to my de<g ref="char:EOLhyphen"/>ſign, and well enough without amendment.</p>
+            </div>
+            <div type="Manwarings_contention">
+               <head>
+                  <hi>Pag.</hi> 19. <hi>of his Admonition.</hi>
+               </head>
+               <p>Here he reminds the Reader of his former words, <hi>Pag.</hi> 63, of his Anſwer to my two Books, which he repeateth here, name<g ref="char:EOLhyphen"/>ly, — That ſince it did ap<g ref="char:EOLhyphen"/>pear that I was reſolved to have
+<pb n="34" facs="tcp:33750:20"/>the laſt word, although I had no<g ref="char:EOLhyphen"/>thing new to ſay; if what I did after that time write, did prove no more to the purpoſe than what I had ſaid in my two Books aforeſaid, he would not appear in Print againſt me any more, but would chuſe to vindicate his Grandmother and himſelf by word of mouth, whenſoever he ſhould have opportunity ſo to do.</p>
+               <div type="Leicesters_rebuttal">
+                  <head>Anſwer.</head>
+                  <p>Hereby he would now have the Reader to believe, that what I have writ lately in my ſecond Reply, is nothing more to the purpoſe than what I had ſaid in my two Books, otherwiſe he would again have ap<g ref="char:EOLhyphen"/>peared in Print againſt me, for he had left himſelf that Starting-hole; but now he would chuſe to vindi<g ref="char:EOLhyphen"/>cate his Grandmother and himſelf, by word of mouth, whenſoever he had an opportunity; ſo that he would now inſinuate, that though he had promiſed to appear no more
+<pb n="35" facs="tcp:33750:20"/>in Print againſt me concerning <hi>Amicia,</hi> yet he might no<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> appear againſt me in Print by a ſcanda<g ref="char:EOLhyphen"/>lous Admonition.</p>
+               </div>
+            </div>
+            <div type="Manwarings_contention">
+               <head>
+                  <hi>Pag.</hi> 19. <hi>of his Admonition.</hi>
+               </head>
+               <p>Here he ſaith in the ſame Page, that ſince that time (that is, ſince he appeared publickly in Print againſt me: he might have done well to have excepted this Admonition) I have put out at once no leſs than three Books concerning the ſame Subject, that is, concerning the Baſtardy of <hi>Amicia.</hi>
+               </p>
+               <div type="Leicesters_rebuttal">
+                  <head>Anſwer.</head>
+                  <p>Now theſe three Books are but one Book digeſted into three parts, and printed all at one time, which he ſo formally calls a ſecond Reply, <hi>Peroratie ad Lectorem,</hi> and the caſe of <hi>Amicia</hi> truly ſtated, for the na<g ref="char:EOLhyphen"/>ture of the things required there to be handled apart, which (ſaith he)
+<pb n="36" facs="tcp:33750:21"/>was certainly a great deal of loſt labour, if my former Books had made the caſe ſo clear, as I all along pretended they did.</p>
+                  <p>But not ſo neither, for though the caſe might be clear enough before, yet I believe it is now made more clear, by removing thoſe miſts which Sir <hi>Thomas</hi> had endeavoured to caſt upon the Truth.</p>
+               </div>
+            </div>
+            <div type="Manwarings_contention">
+               <head>
+                  <hi>Pag.</hi> 20. <hi>of his Admonition.</hi>
+               </head>
+               <p>Here Sir <hi>Thomas</hi> ſaith, that in all the Books I have written upon this occaſion, the ſame things are ſaid over and over again, as he believes the like cannot be found elſewhere; ſo that it would be pleaſant if ſome Perſon who hath little elſe to do, would take an account how many times I have repeated the ſame things.</p>
+               <div type="Leicesters_rebuttal">
+                  <head>Anſwer.</head>
+                  <p>Whereunto I ſay, that the like
+<pb n="37" facs="tcp:33750:21"/>may be found even in his own Books, whoſoever will take pains to read them over; and what if the ſame things be ſometimes repeated? theſe muſt needs fall as oft as occa<g ref="char:EOLhyphen"/>ſion is offered.</p>
+                  <p>But now in the ſame twentieth Page he ſaith, —Though he in<g ref="char:EOLhyphen"/>tends ſpeedily to write an Anſwer to that part of the Record which is mentioned in the 76 and 77 Pages of my <hi>Peroratio,</hi> yet he doth not de<g ref="char:EOLhyphen"/>ſign it at preſent for the publick Preſs, but he will ſhow both it, and his anſwer to my former Advertiſe<g ref="char:EOLhyphen"/>ment, unto all knowing Perſons who deſire to ſee the ſame, and he doth not doubt but to give them full ſa<g ref="char:EOLhyphen"/>tisfaction of my miſtakes concern<g ref="char:EOLhyphen"/>cerning both thoſe Records, that they do not prove thoſe things which I conceit they do.</p>
+                  <p>Surely I can have no miſtake concerning them, if the Record be truly writ by me, which my Friend hath twice examined, nor do I con<g ref="char:EOLhyphen"/>ceit they prove any thing but what
+<pb n="38" facs="tcp:33750:22"/>is plain to every rational Man; and it appears by other proof, that <hi>Robert</hi> Earl of <hi>Gloceſter</hi> was not above ten Years old when he was married, and thoſe can be no very knowing Perſons who ſhall be ſo captivated in their reaſon by him as to receive full ſatisfaction concern<g ref="char:EOLhyphen"/>ing my miſtakes therein.</p>
+                  <p>For if Sir <hi>Thomas</hi> ſhall not aver againſt a Record (as ſometime he hath done againſt an original Deed) his cavils cannot ſmother the truth, nor defend what he here ſaith when it ſhall come publickly to be ſcanned.</p>
+               </div>
+            </div>
+            <div type="Manwarings_contention">
+               <head>
+                  <hi>Pag.</hi> 21. <hi>of his Admonition.</hi>
+               </head>
+               <p>S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eaking here of his Letter men<g ref="char:EOLhyphen"/>tioned by me in my <hi>Peroratio ad Lectorem,</hi> he ſaith it is poſſible he might write to a Kinſman of his and mine, that Mr <hi>Dugdal<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> had delivered his opinion in Print on his ſide, as al<g ref="char:EOLhyphen"/>ſo what he had received from a very good hand concerning ſeveral of
+<pb n="39" facs="tcp:33750:22"/>our Judges, but he knows nothing of his Letter being left with <hi>Throp</hi> the Stationer in <hi>Cheſter,</hi> and he is ſure he did not write that Mr. <hi>Dug<g ref="char:EOLhyphen"/>dale</hi> moved the Judges in the caſe, for he was not then in <hi>London</hi> when that Meeting was, nor knew of it till that Meeting was paſt, and it was occaſioned by my Appeal to them.</p>
+               <div type="Leicesters_rebuttal">
+                  <head>Anſwer.</head>
+                  <p>Do but ſee now his equivocati<g ref="char:EOLhyphen"/>on. It is poſſible he might write that Mr. <hi>Dugdale</hi> hath delivered his opinion in Print: why doth he not ſpeak downright, and ſay, that he did ſo write concerning Mr. <hi>Dug<g ref="char:EOLhyphen"/>dale</hi>'s opinion? when it is moſt cer<g ref="char:EOLhyphen"/>tain that he did ſo write to that Kinſman, and ſeveral others, and though he ſays he knows nothing of the Letter being left with <hi>Throp</hi> the Stationer, yet it is moſt certain that <hi>Throp</hi> had it, and ſhewed it to others; why doth he not ſay
+<pb n="40" facs="tcp:33750:23"/>what it is that he had received from that very good hand concern<g ref="char:EOLhyphen"/>ing the Judges? and then he ſaith, the meeting of the Judges was oc<g ref="char:EOLhyphen"/>caſioned by my Appeal to them: I'le ſwear, that neither I, nor any from me, by my knowledg or procure<g ref="char:EOLhyphen"/>ment, did move any of them to that Meeting: and on the other hand, I believe they would not have had any ſuch Meeting if no Body had moved them to it; and I would fain know what queſtion was moved to them, and by whom.</p>
+               </div>
+            </div>
+            <div type="Manwarings_contention">
+               <head>
+                  <hi>Pag.</hi> 22. <hi>of his Admonition.</hi>
+               </head>
+               <p>Here he ſaith, that the queſtion (as I alledge) whether Baſtard or no Baſtard hath nothing of any Law in the caſe, and that it is more proper for the Judges to judg only upon the point of Law: Now (ſaith he) how they can judg of the point of Law if there be nothing of any Law in the caſe, may perhaps be very difficult for any but Sir <hi>Peter</hi> to tell.</p>
+               <pb n="41" facs="tcp:33750:23"/>
+               <div type="Leicesters_rebuttal">
+                  <head>Anſwer.</head>
+                  <p>Thus the Reader may ſee his old way of catching at words, though he knows my meaning well enough: I do ſtill affirm, that whether <hi>Ami<g ref="char:EOLhyphen"/>cia</hi> be a Baſtard or no, hath nothing properly of any Law in the caſe, but it is meerly a queſtion of Hiſto<g ref="char:EOLhyphen"/>ry, and cannot be proved but by Hiſtory, Records and Reaſon; and becauſe our reverend Judges have not leaſure to ſearch up all the Hi<g ref="char:EOLhyphen"/>ſtories and Records touching the ſame, it is not fit to be put to them for their opinions, unleſs alſo all the Records and Hiſtories, together with all the reaſons alledged on both ſides were produced before them: But becauſe Sir <hi>Thomas</hi> and others would prove it by a point of Law (though very improperly) formerly diſcuſſed between us in our Books, and which I alledge will not reach the preſent caſe, nor hath he any probable argument
+<pb n="42" facs="tcp:33750:24"/>out of any Hiſtory, Record, or Evi<g ref="char:EOLhyphen"/>dence to prove her legitimate: I ſay it is more proper for the Judges to judge on that point of Law in difference between us, than whe<g ref="char:EOLhyphen"/>ther <hi>Amicia</hi> be a Baſtard or no, or whether <hi>Hugh Cyvelioc</hi> had a for<g ref="char:EOLhyphen"/>mer Wife or no, which hath no Law in the caſe.</p>
+               </div>
+            </div>
+            <div type="Manwarings_contention">
+               <head>
+                  <hi>Pag.</hi> 23. <hi>of his Admonition.</hi>
+               </head>
+               <p>Here laſtly he tells us, he expects I will write ſeveral Books againſt what he hath here publiſhed about my miſtakes concerning his Family, which if I do, he will not go about publickly to anſwer any of them; but if any one will come to him, he will ſhow proof of all the Un<g ref="char:EOLhyphen"/>certainties, Omiſſions, and Miſtakes which he hath charged me with<g ref="char:EOLhyphen"/>all.</p>
+               <div type="Leicesters_rebuttal">
+                  <head>Anſwer.</head>
+                  <p>Whereunto I ſay that I ſhall
+<pb n="43" facs="tcp:33750:24"/>write no more concerning this Admonition than this Anſwer here publiſhed, unleſs he ſhall alſo pub<g ref="char:EOLhyphen"/>liſh more ſcandalous things againſt me.</p>
+                  <p>Only I obſerve he will not, or ra<g ref="char:EOLhyphen"/>ther cannot ſhow any proofs for my partiality, for that is left out here among the other general Heads mentioned, and it had been better to have left that out before, for I dare appeal to God and his own Conſcience, that he verily believes that I intended nothing of partiality to any Family, nor eſpecially any malignancy to his, and therefore more unhandſomly done to charge it upon me before, and moſt un<g ref="char:EOLhyphen"/>juſt.</p>
+                  <p>And what he ſaith of ſhowing proofs of all the Uncertainties, Omiſſions, and Miſtakes here charg<g ref="char:EOLhyphen"/>ed upon me unto any one that ſhall come unto him, I believe he will have very few to reſort unto him
+<pb n="44" facs="tcp:33750:25"/>on that account, only, unleſs they were more weighty: and concern<g ref="char:EOLhyphen"/>ing, which I refer my ſelf to my Anſwer here above written.</p>
+               </div>
+            </div>
+            <closer>
+               <dateline>
+                  <hi>Mobberley,</hi> 
+                  <date>Sept. the 20. 1676.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:33750:25"/>
+         </div>
+      </body>
+   </text>
+</TEI>
